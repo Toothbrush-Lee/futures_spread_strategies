@@ -51,13 +51,13 @@ ENV/
 *~
 
 # Data files
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite3
-*.pkl
-*.pickle
+# *.csv
+# *.xlsx
+# *.xls
+# *.db
+# *.sqlite3
+# *.pkl
+# *.pickle
 
 # Logs and databases
 *.log
